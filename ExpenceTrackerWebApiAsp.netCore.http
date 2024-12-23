@@ -1,0 +1,6 @@
+@ExpenceTrackerWebApiAsp.netCore_HostAddress = http://localhost:5049
+
+GET {{ExpenceTrackerWebApiAsp.netCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
